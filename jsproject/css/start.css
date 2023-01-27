@@ -1,0 +1,86 @@
+body{
+	margin: 0 auto;
+	background-size: 100% 720px;
+    background-image: url("../img/nature.jpg");
+}
+
+
+.container{
+	width: 450px;
+	height: 270px;
+	text-align: center;
+	margin: 0 auto;
+    margin-right: 60%;
+	background-color: aliceblue;
+	margin-top: 160px;
+	
+    
+}
+label{
+    padding: 15px 25px;
+	border: none;
+	background-color: rgb(0, 162, 255);
+	color: #fff;
+    border-radius: 50%;
+    font-weight: bold;
+}
+
+input[type="text"]{
+	margin-top: 30px;
+	height: 45px;
+	width: 300px;
+	font-size: 18px;
+    margin-top: 70px;
+	margin-bottom: 20px;
+	background-color: #fff;
+	padding-left: 40px;
+}
+
+
+.btn-login{
+    margin-top: 15px;
+	padding: 15px 25px;
+	border: none;
+	background-color:rgb(0, 162, 255);
+	color: #fff;
+    border-radius: 50%;
+}
+.pointers{
+    width: 400px;
+	height: 350px;
+	text-align: center;
+    margin-left: 60%;
+	background-color: aliceblue;
+	top: 21%;
+	margin-bottom: 80%;
+	margin-right: 50%;
+	position: absolute;
+	padding-right: 20px;
+    
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+.line{
+
+display: flex;
+width: 50px;
+
+}
+.submitform{
+	border-radius: 50px;
+    width: 80px;
+    height: 50px;
+    color: black;
+    background-color: rgb(0, 162, 255);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.photo{
+	margin-right: 200px;
+}
+td{
+	padding-right: 20px;
+}
